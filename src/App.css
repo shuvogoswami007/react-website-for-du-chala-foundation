@@ -1,0 +1,15 @@
+.login-form{
+  
+  width: 100%;
+  max-width: 500 px;
+  padding :15px ;
+  margin:auto ;
+  height :100%;
+  background-image: url(../src/CNG.png);
+  background-repeat: no-repeat;
+  background-color: rgb(200, 238, 248);
+  
+}
+.head{
+  text-align:center;
+}
